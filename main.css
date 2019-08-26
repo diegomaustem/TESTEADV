@@ -1,0 +1,119 @@
+/* font-family: 'Cookie', cursive; */
+@import url('https://fonts.googleapis.com/css?family=Cookie&display=swap');
+
+/* font-family: 'Open Sans', sans-serif; */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap');
+
+
+
+header#logo{
+	width: 1366px;
+	height:80px;
+	margin:auto;
+	background-color: #ACD0B6;
+}
+
+header#logo img{
+	position:relative;
+	left:50%;
+	top:52%;
+	transform: translate(-50%, -50%);
+}
+
+section#corpo{
+	width: 1364px;
+	margin:auto;
+}
+
+#cabecalho-formulario{
+	width: 530px;
+	height:180px;
+	margin:auto;
+	margin-bottom: -35px;
+}
+
+#cabecalho-formulario #paragrafo{
+	width: 460px;
+	margin: auto;
+	margin-top:25px;
+	font-size: 71px;
+	font-family: Cookie;
+	text-align: center;
+	color: #E2EDCB;
+	
+}
+
+#cabecalho-formulario #paragrafo2{
+	width: 460px;
+	margin: auto;
+	font-size: 71px;
+	font-family: Cookie;
+	color: #E2EDCB;
+	text-align: center;
+	margin-top: -50px;
+	
+}
+
+#formulario{
+	width: 650px;
+	margin:auto;
+	margin-top:-730px;
+	position: relative;
+}
+
+#contact{
+	margin-top: -60px;
+	margin: auto;
+	width: 425px;
+}
+
+form .nome{
+	width: 412px;
+	height: 50px;
+	padding: 4px;
+	display: block;
+	border-radius: 8px;
+	font-size: 18px;
+	font-family: Open Sans;
+	margin-bottom: -10px;
+}
+
+form .email{
+	width: 412px;
+	height: 50px;
+	padding: 4px; 
+	display: block;
+	border-radius: 8px;
+	font-size: 18px;
+	font-family: Open Sans;
+	margin-bottom: -10px;
+}
+
+form textarea{
+	width: 418px;
+	height: 160px;
+	display: block;
+	border-radius: 8px;
+	font-size: 18px;
+	font-family: Open Sans;
+	margin-bottom: -10px;
+}
+
+form .btn{
+	width: 425px;
+	height: 60px;
+	font-size: 22px;
+	background-color: #71A397;
+	font-family: Open Sans;
+	font-color:#FFFEFF;
+	border-radius: 7px;
+	border:none;
+	font-weight: bold;
+	box-shadow: 0 8px 0 #4B8A79;
+	color: #E2EDCB;
+}
+
+
+
+
+
